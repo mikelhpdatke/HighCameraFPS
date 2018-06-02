@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HighCameraFPS</string>
+    <string name="record">Record</string>
+    <string name="description_info">Info ..</string>
+    <string name="intro_message">Hello</string>
+    <string name="permission_request">Permission Request</string>
+    <string name="camera_error">Cam Err</string>
+</resources>
